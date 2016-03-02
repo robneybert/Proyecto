@@ -1,0 +1,134 @@
+body{
+		background: #01DFA5;
+	}
+
+	#container, header, nav,footer, #login2
+	{
+		border-radius: 10px;
+	}
+
+	#container{
+		width: 90%;
+		background: rgba(0,0,0,.7);
+		margin: auto;
+		padding: 20px;
+	}
+
+	header
+	{
+		background: #088A4B;
+		margin-bottom: 10px;
+		text-align: center;
+		min-width: 200px;
+
+	}
+
+	header h1
+	{
+		text-align: center;
+		padding: 10px 5px;
+		margin: 0px;
+	}
+
+	nav{
+		background: #BDBDBD;
+		margin-bottom: 10px;
+	}
+
+	aside{
+		height: 100%;
+		background: #088A4B;
+		float: right;
+		width: 19%;
+		border-radius: 10px 10px 10px 10px;
+		text-align: center;
+		
+	}
+
+	section{
+		background: #fff;
+		float: left;
+		width: 80%;
+		border-radius: 10px 10px 10px 10px;
+		margin: auto;
+
+	}
+
+	article{
+		margin: 20px;
+	}
+
+	#login{
+		width: 100%;
+		border-radius: 10px;
+	}
+
+	footer{
+		height: 20px;
+		background: #BDBDBD;
+		clear: both;
+		text-align: center;
+	}
+	#login2{
+		background: #088A4B;
+		width: 30%;
+		margin: 10px auto;
+		padding: 10px;
+		text-align: center;
+	}
+
+	nav ul
+	{
+		margin: 5px 10px;
+		text-align: center;
+	}
+
+	nav ul li
+	{
+		display: inline-block;
+		padding: 5px 2px;
+	}
+
+	a
+	{
+		text-decoration: none;
+		color: #000;
+	}
+
+
+	nav ul li:hover
+	{
+		background: #088A68;
+
+	}
+
+	table, td
+	{
+		border:2px black solid;
+		text-align: center;
+	}
+
+	table{
+		margin: auto;
+	}
+    p
+    {
+    	text-align: justify;
+
+    }
+    .imagen
+    {
+    	min-width: 400px;
+    	max-width: 900px;
+		height: auto;
+		float: left;
+    }
+      .bt
+    {
+    	text-align: center;
+    }
+
+    .bt2
+    {
+    	text-align: center;
+    }
